@@ -22,5 +22,5 @@ module.directive('droppable', function() {
 			drop: function(event, ui) {}
 		}
 	}
-})
+});
 
